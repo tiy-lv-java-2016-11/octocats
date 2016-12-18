@@ -3,12 +3,12 @@
 - CSS Layout
 
 ## Your Mission
-Let's duplicate an image using a given HTML page, [`index.html`](), and an inspiration image:
+Let's duplicate an image using a given HTML page, [`index.html`](https://github.com/tiy-lv-java-2016-11/octocats/blob/master/index.html), and an inspiration image:
 ![Octocat Table](https://dl.dropboxusercontent.com/s/awfw9xqf1dpcn3c/octocat.png?dl=0)
 
 ### Explore Mode
 
-**Challenge #1.1**: Copy our [index.html](https://github.com/theironyard/js-assignments/blob/master/HTML+CSS/html-intro-layout/index.html) and add your own CSS to make it look like the image above. Your CSS should be in a separate file called `styles.css`. 
+**Challenge #1.1**: Copy our [index.html](https://github.com/tiy-lv-java-2016-11/octocats/blob/master/index.html) and add your own CSS to make it look like the image above. Your CSS should be in a separate file called `styles.css`. 
 **Goal #1.1**: Add a custom stylesheet to `index.html`.
 
 **Challenge #1.2**: Make sure your project is safe! Create a git repository containing your project files and upload it to Github.
