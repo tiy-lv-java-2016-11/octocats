@@ -1,0 +1,32 @@
+*, *::after, *before {box-sizing: ingerit;}
+
+.octodex {
+  background: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.octocat a img{
+border: solid lightgrey;
+border-radius: 10px;
+
+}
+
+.octocat img {
+  width: 400px;
+}
+
+div.image-caption{
+  float: right;
+  display: inline-flex;
+  }
+div.image-footer {
+  text-align: left;
+}
+.image-footer a img {
+  width: 28px;
+  height: 28px;
+}
+span.image-number {
+  float: left;
+}
