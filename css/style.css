@@ -1,0 +1,40 @@
+*, *::after, *before {box-sizing: ingerit;}
+
+.octodex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.octocat a img{
+  border: solid #cacaca;
+  border-radius: 3px;
+  border-width: 1px;
+  background: #fff;
+}
+
+.octocat img {
+  width:424px;
+}
+
+.image-footer{
+  font-size: 16px;
+  color: #666;
+  font-weight: bold;
+  text-align: right;
+  border-bottom: 1px solid #cacaca;
+}
+
+.image-footer img {
+  width: 28px;
+  height: 28px;
+}
+
+div.image-caption{
+  display: inline-flex;
+}
+
+span.image-number {
+  float: left;
+  margin: 5px 0;
+  color: #cacaca;
+}
